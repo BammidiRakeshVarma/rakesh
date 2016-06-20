@@ -60,6 +60,7 @@ else {
 </div>
 
 <div id="sidebar">
+hello
 		<form action=adminchoice>
 		<div style="position:relative;Top:45px;left:45px;">
 			<input type="radio" name="select" value="aprograms" >Add Program<br><br>
